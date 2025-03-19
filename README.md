@@ -7,7 +7,7 @@ Título da apresentação: **Kubernetes e Escalabilidade - Criando aplicações 
 
 Data: **14/09/2024 (sábado)**
 
-Tecnologias e tópicos abordados: **OpenTelemetry, Grafana, Docker, Docker Compose, Linux, Grafana Tempo, Loki, Prometheus, PostgreSQL, .NET, ASP.NET Core...**
+Tecnologias e tópicos abordados: **Kubernetes, Azure Kubernetes Service, Docker, Docker Hub, KEDA, KEDA Cron Scaler, Helm, Linux, Microservices, DevOps, DevSecOps, .NET, ASP.NET Core, Go...**
 
 Número de participantes: **72 pessoas**
 
