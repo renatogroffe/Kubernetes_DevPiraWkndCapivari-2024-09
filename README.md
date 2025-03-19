@@ -13,6 +13,8 @@ Evento: **DEVPIRA Wknd Capivari #2**
 
 Número de participantes: **72 pessoas**
 
+Link de divulgação: [**Instagram**](https://www.instagram.com/p/C_DO0YEJlMg/)
+
 Local: **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Capivari - Avenida Dr. Ênio Pires de Camargo, 2971 - Ribeirão - Capivari-SP - CEP: 13365-010**
 
 Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin**, ao **Murilo Beltrame**, ao **Matheus Barros** e demais organizadores por todo o apoio para que eu partipasse como palestrante de mais um evento promovido pela comunidade **DEVPIRA**.
